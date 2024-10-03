@@ -102,8 +102,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 To run this project, you will need to add the following environment variables to your `.env` file:
 
 ```
-API_KEY=your_api_key
-ANOTHER_API_KEY=your_other_api_key
+getpassword=1235
 ```
 
 <!-- Getting Started -->
